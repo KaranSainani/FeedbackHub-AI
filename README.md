@@ -47,7 +47,6 @@ Follow these steps to spin up the project locally on your machine:
 
 **5. Dependencies (requirements.txt)**
   To ensure a seamless setup in any environment, create a file named requirements.txt in your root folder with these exact dependencies:
-Plaintext
 
   streamlit<br>
   pandas<br>
