@@ -1,0 +1,37 @@
+[
+	{
+		"id": 1,
+		"fecha": "2026-06-01",
+		"cliente": "Carlos Mendoza",
+		"valoracion": 5,
+		"comentario": "¡Una experiencia fantástica! La comida deliciosa, especialmente la lasaña, y el café gourmet final espectacular. El camarero nos atendió rápido y con una sonrisa. Volveremos seguro."
+	},
+	{
+		"id": 2,
+		"fecha": "2026-06-02",
+		"cliente": "Elena Rostova",
+		"valoracion": 1,
+		"comentario": "Una vergüenza total. Teníamos reserva a las 21:00 y no nos sentaron hasta las 21:45. Para colmo, tardaron otra media hora en traernos una hamburguesa que encima llegó fría y el pan quemado. El camarero fue bastante borde cuando nos quejamos."
+	},
+	{
+		"id": 3,
+		"fecha": "2026-06-04",
+		"cliente": "Javier Gómez",
+		"valoracion": 3,
+		"comentario": "El local es precioso y la música de fondo muy agradable. Sin embargo, la comida es normalita para los precios tan inflados que tienen. 18 euros por una ensalada me parece un robo, aunque el servicio fue correcto."
+	},
+	{
+		"id": 4,
+		"fecha": "2026-06-05",
+		"cliente": "Ana Martínez",
+		"valoracion": 5,
+		"comentario": "Me encanta este sitio para teletrabajar por las mañanas mientras desayuno. El personal es súper amable, el wifi va volando y las tartas caseras están increíbles. Un 10 de 10."
+	},
+	{
+		"id": 5,
+		"fecha": "2026-06-08",
+		"cliente": "Luis Fernando",
+		"valoracion": 2,
+		"comentario": "La comida no está mal, pero la organización es caótica. Pedimos tres platos y trajeron dos juntos, y el tercero llegó cuando ya habíamos terminado de comer los anteriores. No puedes ir con prisa a este sitio."
+	}
+]
